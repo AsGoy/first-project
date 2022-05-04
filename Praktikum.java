@@ -1,1 +1,1 @@
-public class Asima{}
+public class Main{}
